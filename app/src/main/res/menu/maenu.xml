@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:icon="@drawable/home"
+    android:title="TODO" />
+    <item android:icon="@drawable/play1"
+        android:title="TODO" />
+    <item android:icon="@drawable/user"
+        android:title="TODO" />
+</menu>
